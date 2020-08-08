@@ -79,7 +79,7 @@ Vue.createApp(Demo).mount('#demo')
 
 # Transitions with Style Bindings
 
-Some transition affects can be applied by interpolating values, for instance by binding a style to an element while an interaction occurs. Take this example for instance:
+Some transition effects can be applied by interpolating values, for instance by binding a style to an element while an interaction occurs. Take this example for instance:
 
 ```html
 <div id="demo">
